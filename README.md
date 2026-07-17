@@ -1,4 +1,4 @@
-## # Hallo, ich bin Yasmine El Harrajit 👋
+## # Hallo, ich bin Yasmine El arrouji 👋
 
 Willkommen auf meinem GitHub-Profil!
 
