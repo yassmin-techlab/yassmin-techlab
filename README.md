@@ -1,24 +1,31 @@
-## Hi, I'm Yasmine 👋
+## # Hallo, ich bin Yasmine El Harrajit 👋
 
-I'm an aspiring Fachinformatikerin für Systemintegration from Morocco.
+Willkommen auf meinem GitHub-Profil!
 
-After earning my TELC Deutsch B2 certificate, I started preparing for an IT Ausbildung in Germany.
+Ich komme aus Marokko und bereite mich auf eine Ausbildung als Fachinformatikerin für Systemintegration in Deutschland vor.
 
-Currently, I'm learning:
+## Über mich
 
-🌐 Computer Networking
-🖥 Cisco Packet Tracer
-🐍 Python
-🌍 HTML
-🔐 Cybersecurity
-🐧 Linux (Learning)
+- 🇩🇪 TELC Deutsch B2
+- 🎓 Marokkanisches Baccalauréat (Physikwissenschaften)
+- 💻 Interesse an Netzwerktechnik, Systemintegration und Cybersecurity
+- 📚 Ich lerne kontinuierlich durch praktische Projekte und Selbststudium.
 
-My Goal
+## Aktuelle Lernbereiche
 
-I'm looking for an Ausbildung als Fachinformatikerin für Systemintegration in Germany.
+- Cisco Packet Tracer
+- Computer Networking
+- HTML
+- Python
+- Linux
+- Git & GitHub
+- TryHackMe
 
-I enjoy learning new technologies and continuously improving my technical skills through hands-on practice.
+## Ziel
 
+Mein Ziel ist es, meine technischen Kenntnisse kontinuierlich auszubauen und praktische Erfahrungen zu sammeln, um eine erfolgreiche Ausbildung als Fachinformatikerin für Systemintegration in Deutschland zu beginnen.
+
+Vielen Dank für Ihren Besuch auf meinem Profil!
 <!--
 **yassmin-techlab/yassmin-techlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
